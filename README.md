@@ -371,17 +371,17 @@ I also wanna remind you of how amazing and awesome you are, how you’ve taught 
 
 Meri jaan, I’m so sorry. It won’t ever happen again. I’m not even gonna try to explain myself because, honestly, no explanation can take away the way I made you feel, and you don’t deserve that. I just hope you realise how much I love you and how much you mean to me. 😭
 
-AND BRO, PURA DIN LAGA HAI YE BANANE MEIN, BTW OFFICE MEIN BAITH KE BANAYA HAI. 😭😭 The least you could do is appreciate the effort theek ha na.
+AND BRO, PURA DIN LAGA HAI YE BANANE MEIN, BTW OFFICE MEIN BAITH KE BANAYA HAI. The least you could do is appreciate the effort theek ha na.
 
 But genuinely, Khadijah, thank you. I couldn’t have asked for a more understanding, loving, and better friend than you. I really couldn’t have. You’re my weak point, meri sabse best, and one of the most precious people in my life. You have no idea how much you mean to me.
 
-And guess what? Us din main aur bhabhi Lala ke baare mein baat kar rahe thay, and out of nowhere, she randomly goes, “I LOVE KHADIJAH.” 😭😭 LIKE GIRL, EVEN THE PEOPLE AROUND ME LOVE YOU SO MUCH. AND FOR GOOD REASON, BTW.
+And guess what? Us din main aur bhabhi Lala ke baare mein baat kar rahe thay, and out of nowhere, she randomly goes, “I LOVE KHADIJAH.” 😭😭 EVEN THE PEOPLE AROUND ME LOVE YOU SO MUCH. AND FOR GOOD REASON, BTW.
 
 I might not always be there physically to wipe your tears away, but I can sure as hell try to make you smile, make you feel better, and remind you how loved you are. And that’s something I’m never gonna stop doing, okay? You can be mad at me, you can yell at me, but please don’t ever think that you’re any less important to me.
 
-I LOVE YOU SO SO SO MUCH, KHADIJAH. PLEASE, PLEASE, PLEASE BAAT KARLO. 😭❤️ Tell me what happened, tell me what’s bothering you, tell me if someone said something to my BSF. AND LET ME TEAR THAT BITCH APART. THANKS. 💋
+I LOVE YOU SO SO SO MUCH, KHADIJAH. PLEASE, PLEASE, PLEASE BAAT KARLO. 😭❤️ Tell me what happened, tell me what’s bothering you, tell me if someone said something to my BSF. AND LET ME TEAR THAT BITCH APART. THANKS.
 
-But seriously, meri jaan, I miss you. I miss talking to you, and I hate knowing that I’ve hurt you. I’m sorry for that, and I hope I can make it up to you. No matter what, you’ll always be my Khadijah, meri BSF. I LOVE YOU, YOU STUPID LITTLE WOMAN. NOW PLEASE TALK TO ME. 😭🫶🏻❤️</div>
+But seriously, meri jaan, I miss you. I miss talking to you, and I hate knowing that I’ve hurt you. I’m sorry for that, and I hope I can make it up to you. No matter what, you’ll always be my Khadijah, meri BSF. I LOVE YOU, YOU STUPID LITTLE WOMAN. NOW PLEASE TALK TO ME.❤️</div>
       </div>
 
       <div class="song">
