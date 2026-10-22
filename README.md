@@ -1,4 +1,4 @@
- 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -320,14 +320,11 @@ audio {
   <div class="content">
     <p class="eyebrow">something i need to say</p>
 
-    <!-- CHANGE THIS HEADING -->
     <h2 contenteditable="true">Your heading here</h2>
 
-    <!-- WRITE YOUR APOLOGY HERE -->
     <div class="message" contenteditable="true"
-      data-placeholder="Write your apology here..."
       style="text-align:center"
-      id="apology"></div>
+      id="apology">Khadijah, I’m genuinely so sorry 🥹❤️ I know I messed up, and I’m not gonna make excuses for it. You mean so much to me, and the last thing I ever wanted was to hurt you. Please gussa kar lo, daant lo, but don’t stay naraz with me na miss you . I love you so much, and I promise I’ll do better. 🫶🏻💗</div>
 
     <div class="divider"></div>
 
@@ -353,7 +350,6 @@ audio {
   <div class="content">
     <p class="eyebrow">a little letter</p>
 
-    <!-- CHANGE THIS TITLE -->
     <h2 contenteditable="true">A little letter for you</h2>
 
     <button class="flower-button" onclick="revealLetter()"
@@ -368,10 +364,24 @@ audio {
 
     <div id="letterContent" hidden>
       <div class="letter">
-        <!-- WRITE YOUR PARAGRAPH HERE -->
         <div class="message" contenteditable="true"
-          data-placeholder="Write your personal paragraph here..."
-          id="paragraph"></div>
+          id="paragraph">Hey Khadijah, I just wanna let you know that I’m here for you, and I’m genuinely so sorry for what happened. IDC whatever it is between us, gussa kar lo, maar lo, jo karna hai kar lo, bas mujhse naraz mat raho, please. I want you to talk to me, theek hai? Maan liya, ghalti hui. I’M SORRY, JANU. 😭❤️
+
+I also wanna remind you of how amazing and awesome you are, how you’ve taught me what life is, and how to literally deal with anything. I’ve learned so much of that from you. In my eyes, you’re more than perfect, and you’ll ALWAYS be meri BSF. You’re so strong, so so so good, and I genuinely don’t think you realise how special you are.
+
+Meri jaan, I’m so sorry. It won’t ever happen again. I’m not even gonna try to explain myself because, honestly, no explanation can take away the way I made you feel, and you don’t deserve that. I just hope you realise how much I love you and how much you mean to me. 😭
+
+AND BRO, PURA DIN LAGA HAI YE BANANE MEIN, BTW OFFICE MEIN BAITH KE BANAYA HAI. 😭😭 The least you could do is appreciate the effort theek ha na.
+
+But genuinely, Khadijah, thank you. I couldn’t have asked for a more understanding, loving, and better friend than you. I really couldn’t have. You’re my weak point, meri sabse best, and one of the most precious people in my life. You have no idea how much you mean to me.
+
+And guess what? Us din main aur bhabhi Lala ke baare mein baat kar rahe thay, and out of nowhere, she randomly goes, “I LOVE KHADIJAH.” 😭😭 LIKE GIRL, EVEN THE PEOPLE AROUND ME LOVE YOU SO MUCH. AND FOR GOOD REASON, BTW.
+
+I might not always be there physically to wipe your tears away, but I can sure as hell try to make you smile, make you feel better, and remind you how loved you are. And that’s something I’m never gonna stop doing, okay? You can be mad at me, you can yell at me, but please don’t ever think that you’re any less important to me.
+
+I LOVE YOU SO SO SO MUCH, KHADIJAH. PLEASE, PLEASE, PLEASE BAAT KARLO. 😭❤️ Tell me what happened, tell me what’s bothering you, tell me if someone said something to my BSF. AND LET ME TEAR THAT BITCH APART. THANKS. 💋
+
+But seriously, meri jaan, I miss you. I miss talking to you, and I hate knowing that I’ve hurt you. I’m sorry for that, and I hope I can make it up to you. No matter what, you’ll always be my Khadijah, meri BSF. I LOVE YOU, YOU STUPID LITTLE WOMAN. NOW PLEASE TALK TO ME. 😭🫶🏻❤️</div>
       </div>
 
       <div class="song">
@@ -382,7 +392,6 @@ audio {
           The Carnival | Prod. by Satyam HCR
         </div>
 
-        <!-- THE MP3 MUST BE UPLOADED TO YOUR REPOSITORY ROOT -->
         <audio controls preload="metadata">
           <source
             src="King%20-%20She%20Don%27t%20Give%20A%20%28Explicit%29%20%EF%BD%9C%20The%20Carnival%20%EF%BD%9C%20Prod.%20by%20Satyam%20HCR%20%EF%BD%9C%20Latest%20Songs%202020.mp3"
